@@ -1,0 +1,10 @@
+server:
+  port: 7080
+datasoure:
+  host: 127.0.0.1
+  port: 3306
+  database: ginessential
+  user: root
+  password: 123qwe
+  charset: utf8mb4
+  loc: Asia/Shanghai
